@@ -1,9 +1,9 @@
 # SQLAlchemy-challenge: Surf's Up!
 
-<b>To help with trip planning to Honolulu, Hawaii, I did some climate analysis on the area.</b>
+<b><i>To help with trip planning to Honolulu, Hawaii, I did some climate analysis on the area.</i></b>
 <br><br>
 <b>Climate Analysis and Exploration</b><br>
-,i>I used Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. All of the following analysis were completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.</i><br>
+<i>I used Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. All of the following analysis were completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.</i><br>
 <br>
 [x] Use SQLAlchemy create_engine to connect to your sqlite database.<br>
 [x] Use SQLAlchemy automap_base() to reflect your tables into classes and save a reference to those classes called Station and Measurement.<br>
